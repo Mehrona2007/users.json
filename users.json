@@ -3,36 +3,42 @@
     "id": 1,
     "name": "Ali",
     "age":32,
+    "city":"Tashkent",
     "email": "ali@example.com"
   },
   {
     "id": 2,
     "name": "Burxon",
      "age":52,
+     "city":"Buxoro",
     "email": "burxon@example.com"
   },
   {
     "id": 3,
     "name": "Sayora",
      "age":42,
+     "city":"Samarqand",
     "email": "sayora@example.com"
   },
   {
     "id": 4,
     "name": "Abduraxmon",
      "age":18,
+     "city":"Denov",
     "email": "abduraxmon@example.com"
   },
   {
     "id": 5,
     "name": "Sadbark",
      "age":14,
+     "city":"Tashkent",
     "email": "sadbark@example.com"
   },
   {
     "id": 6,
     "name": "Oysanam",
      "age":23,
+     "city":"Jizaxt",
     "email": "oysanam@example.com"
   }
 ]
