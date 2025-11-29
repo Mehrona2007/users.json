@@ -2,31 +2,37 @@
   {
     "id": 1,
     "name": "Ali",
+    "age":32,
     "email": "ali@example.com"
   },
   {
     "id": 2,
     "name": "Burxon",
+     "age":52,
     "email": "burxon@example.com"
   },
   {
     "id": 3,
     "name": "Sayora",
+     "age":42,
     "email": "sayora@example.com"
   },
   {
     "id": 4,
     "name": "Abduraxmon",
+     "age":18,
     "email": "abduraxmon@example.com"
   },
   {
     "id": 5,
     "name": "Sadbark",
+     "age":14,
     "email": "sadbark@example.com"
   },
   {
     "id": 6,
     "name": "Oysanam",
+     "age":23,
     "email": "oysanam@example.com"
   }
 ]
